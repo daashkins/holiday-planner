@@ -10,5 +10,5 @@ Technologies used:
 - GoogleMaps
 - GoogleAuth
 
-img src="/client/src/images/PLANitmain.png" width="350" title="main page">
-img src="/client/src/images/PLANitsearch.png" width="350" title="search page">
+<img src="./client/src/images/PLANitmain.png" width="350" title="main page">
+<img src="./client/src/images/PLANitsearch.png" width="350" title="search page">
