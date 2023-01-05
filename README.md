@@ -4,7 +4,7 @@ Project is about creating list with tourist attractons and plannig your future t
 Technologies used:
 - MERN
 - Material UI 
-- 4 external APIs: 
+4 external APIs: 
 - Pixabay
 - OpenTrip
 - GoogleMaps
