@@ -17,4 +17,4 @@ Technologies used:
 
 https://drive.google.com/drive/u/0/my-drive
 
-[![Watch the video]([https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)](https://drive.google.com/drive/u/0/my-drive)
+[![Watch the video](https://youtu.be/enk7cQM0TxE)
