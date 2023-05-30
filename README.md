@@ -15,5 +15,4 @@ Technologies used:
 <img src="./client/src/images/PLANitsearch.png" width="700" title="search page">
 
 
-[[![Watch the video](https://youtu.be/enk7cQM0TxE)](https://youtu.be/enk7cQM0TxE)
-[![](https://markdown-videos.deta.dev/youtube/dQw4w9WgXcQ)](https://youtu.be/enk7cQM0TxE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/enk7cQM0TxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
