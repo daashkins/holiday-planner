@@ -11,7 +11,10 @@ Technologies used:
 - GoogleMaps
 - GoogleAuth
 
+[![](https://markdown-videos.deta.dev/youtube/enk7cQM0TxE)](https://youtu.be/enk7cQM0TxE)
+
+
 <img src="./client/src/images/PLANitmain.png" width="700" title="main page">
 <img src="./client/src/images/PLANitsearch.png" width="700" title="search page">
 
-[![](https://markdown-videos.deta.dev/youtube/enk7cQM0TxE)](https://youtu.be/enk7cQM0TxE)
+
