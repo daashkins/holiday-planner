@@ -15,6 +15,4 @@ Technologies used:
 <img src="./client/src/images/PLANitsearch.png" width="700" title="search page">
 
 
-https://drive.google.com/drive/u/0/my-drive
-
-[![Watch the video](https://youtu.be/enk7cQM0TxE)
+[[![Watch the video](https://youtu.be/enk7cQM0TxE)](https://youtu.be/enk7cQM0TxE)
